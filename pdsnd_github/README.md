@@ -7,7 +7,7 @@ This project was created on Friday 8 April 2022.
 The name of this project is Explore US Bikeshare data.
 
 ### Description
-Describe what your project is about and what it does
+The purpose of the project is to analyse the bikeshare data for three different cities in the USA. 
 
 ### Files used
 Include the files used
