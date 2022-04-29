@@ -7,10 +7,14 @@ This project was created on Friday 8 April 2022.
 The name of this project is Explore US Bikeshare data.
 
 ### Description
-The purpose of the project is to analyse the bikeshare data for three different cities in the USA. 
+The purpose of the project is to analyse the bikeshare data for three different cities in the USA.
 
 ### Files used
-Include the files used
+The only files used for this project were those provided by Udacity. Namely:
+*new_york_city.csv
+*chicago.csv
+*washington.csv
+*bikeshare.py 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
