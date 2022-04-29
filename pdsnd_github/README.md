@@ -10,11 +10,7 @@ The name of this project is Explore US Bikeshare data.
 The purpose of the project is to analyse the bikeshare data for three different cities in the USA.
 
 ### Files used
-The only files used for this project were those provided by Udacity. Namely:
-*new_york_city.csv
-*chicago.csv
-*washington.csv
-*bikeshare.py
+The only files used for this project were those provided by Udacity. Namely: new_york_city.csv, chicago.csv, washington.csv and bikeshare.py.
 
 ### Credits
 The below link helped me convert the time stats to a format that was more easily readable for humans:
