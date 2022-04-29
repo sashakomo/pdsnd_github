@@ -14,7 +14,8 @@ The only files used for this project were those provided by Udacity. Namely:
 *new_york_city.csv
 *chicago.csv
 *washington.csv
-*bikeshare.py 
+*bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The below link helped me convert the time stats to a format that was more easily readable for humans:
+https://www.tutorialspoint.com/How-to-convert-time-Seconds-to-h-m-s-format-in-Python
