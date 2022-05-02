@@ -159,7 +159,7 @@ def user_stats(df):
         gender_count = df['Gender'].value_counts()
         print(gender_count)
     else:
-        print("Gender data does not exist for the selected city. Please pick another.")
+        print("Gender data does not exist for the selected city. Please pick another city.")
 
     # Display earliest, most recent, and most common year of birth
     if'Birth Year' in df.columns:
@@ -170,7 +170,7 @@ def user_stats(df):
         common_year = df['Birth Year'].mode()
         print("The most common year of birth is", int(common_year))
     else:
-        print("Birth year data does not exist for the selected city.")
+        print("Birth year data does not exist for the selected city. Please pick another city.")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
