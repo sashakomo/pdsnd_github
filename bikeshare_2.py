@@ -159,7 +159,7 @@ def user_stats(df):
         gender_count = df['Gender'].value_counts()
         print(gender_count)
     else:
-        print("Gender data does not exist for the selected city.")
+        print("Gender data does not exist for the selected city. Please pick another.")
 
     # Display earliest, most recent, and most common year of birth
     if'Birth Year' in df.columns:
